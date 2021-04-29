@@ -8,7 +8,7 @@ No settings to configure.
 ## Compatibility
 Works on iOS 14.0 - iOS 14.x
 
-Untested on iOS 12 and 13
+Untested on iOS 12 and 13 but should also works
 
 ## Download links
 [Download .deb file](https://github.com/funskydev/NoBannerName2/releases)
