@@ -1,6 +1,8 @@
 # NoBannerName2
 NoBannerName 2 is a tweak that hides the title of notification banners.
 
+No settings to configure.
+
 ## Compatibility
 Works on iOS 14.0 - iOS 14.x
 
