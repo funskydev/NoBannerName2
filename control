@@ -6,4 +6,4 @@ Description: Tweak that hides the title of notification banners.
 Maintainer: Funsky Dev
 Author: Funsky Dev
 Section: Tweaks
-Depends: mobilesubstrate, firmware (<= 14)
+Depends: mobilesubstrate, firmware (<= 12)
