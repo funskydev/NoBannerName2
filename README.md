@@ -13,5 +13,8 @@ Untested on iOS 12 and 13 but should also works
 ## Download links
 [Download .deb file](https://github.com/funskydev/NoBannerName2/releases)
 
+## Twitter
+[@FunskyDev](https://twitter.com/funskydev)
+
 ## License
 [GNU GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/)
