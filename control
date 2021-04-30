@@ -1,6 +1,6 @@
 Package: funskydev.nbn2
 Name: NoBannerName2
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Tweak that hides the title of notification banners.
 Maintainer: Funsky Dev

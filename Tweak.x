@@ -1,4 +1,4 @@
-#include <UIKit/UIKit.h>
+#import <UIKit/UIKit.h>
 
 %hook PLPlatterHeaderContentView
 
