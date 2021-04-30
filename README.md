@@ -6,7 +6,7 @@ No settings to configure.
 ![screenshot1](https://i.imgur.com/PEk3u8i.jpeg)
 
 ## Compatibility
-Works on iOS 14.0 - iOS 14.x
+Works on iOS 14.0 - iOS 14.x (A12 and A13 supported)
 
 Untested on iOS 12 and 13 but should also works
 
